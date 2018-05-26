@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
         <source>Home</source>
+        <target>Главная</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -57,6 +58,10 @@
         <source>
                     Cryptocurrency.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </source>
+        <source>
+                    криптовалюта.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>умная.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
