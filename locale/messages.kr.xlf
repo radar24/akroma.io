@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
         <source>Home</source>
+        <target>집</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -58,6 +59,10 @@
                     Cryptocurrency.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
+        <target>
+                    암호 해독 성.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>더 똑똑한.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">6</context>
