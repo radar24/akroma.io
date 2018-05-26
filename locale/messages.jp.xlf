@@ -59,10 +59,10 @@
                     Cryptocurrency.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
-        <source>
+        <target>
                     暗号化性.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>よりスマートに.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
-                </source>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">6</context>
