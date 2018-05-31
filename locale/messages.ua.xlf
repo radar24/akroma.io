@@ -48,6 +48,7 @@
       </trans-unit>
       <trans-unit id="895b412950f95282a45c713c962df63cf3f7d73d" datatype="html">
         <source>Smart Contracts. Masternodes. Oracles.</source>
+		<target>Смарт-контракти. Мастерноди. Оракули.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">5</context>
