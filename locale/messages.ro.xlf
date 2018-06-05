@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Acasă</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="37529a4c63fb20de8466f316102261d272d4d2ed" datatype="html">
+        <source>Masternodes</source>
+        <target>Masternoduri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="994363f08f9fbfa3b3994ff7b35c6904fdff18d8" datatype="html">
+        <source>Profile</source>
+        <target>Profil</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9fe218829514884cdd0ca2300573a4e0428c324f" datatype="html">
+        <source>Alerts</source>
+        <target>Alerte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="895b412950f95282a45c713c962df63cf3f7d73d" datatype="html">
+        <source>Smart Contracts. Masternodes. Oracles.</source>
+        <target>Contracte inteligente. Masternoduri. Oracole.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/graphs/graphs.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2f39d78167e08af705306a8f3aa857f629fb8efd" datatype="html">
+        <source>
+                    Cryptocurrency.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </source>
+        <target>
+                    Criptovalută.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7df25164c7fd0b0a5031c4a6d77eca3efe038511" datatype="html">
+        <source>Introducing Akroma</source>
+        <target>Introducere Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4d26c7fdfbc4084096e9eb8a6fa3bef655fc0080" datatype="html">
+        <source>Akroma is a cryptocurrency and application development platform focused on creating a governance model that will reward long-term, sustainable development and design.
+                </source>
+        <target>Akroma este o criptovalută și o platformă de dezvoltare a aplicațiilor ce se concentrează pe crearea un model de guvernanță care va recompensa dezvoltarea și proiectarea sustenabilă și de lungă durată.
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bd30f6495a0ed42fba70af3826a9bbb9d1a23426" datatype="html">
+        <source>Download the
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Akroma Whitepaper<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                </source>
+        <target>Descărcați
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Whitepaperul Akroma<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cca4e52bb9f72ec679c174bddf7095c578cae4ce" datatype="html">
+        <source>Cryptocurrency.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </source>
+        <target>Criptovalută.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Mai inteligent.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/graphs/graphs.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5f290fa920302fbf0a5b9dff602811cf8ea46079" datatype="html">
+        <source>Core Team</source>
+        <target>Echipa de bază</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3215592ca589ee37f77889df5b67e928e6af09ea" datatype="html">
+        <source>Community Moderators</source>
+        <target>Moderatorii Comunității</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d9514821a1ea219e53383c6d5f3be0d424da1e42" datatype="html">
+        <source>Network Details</source>
+        <source>Detalii Rețea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="acc04ca445d64958d843622f9ce95c0378198c24" datatype="html">
+        <source>Protocol</source>
+        <target>Protocol</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6c6f25c47da62ec597c6057a36ddfc3209811ec5" datatype="html">
+        <source>Algorithm</source>
+        <target>Algoritm</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="219457e31107e4653abc2952947c150ef7840260" datatype="html">
+        <source>Total Supply</source>
+        <target>Rezerva Totală</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2136a6dec991ab699f36505aaf745dc026ef9f22" datatype="html">
+        <source>100 million</source>
+        <target>100 milioane</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ed9d5099aa210dd81057f1f8da4337b87de761ee" datatype="html">
+        <source>Target Block Time</source>
+        <target>Timpul ales al blocului</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="51e33f440afb2c6fb5c9ed39520f934c02594711" datatype="html">
+        <source>10 seconds (requires consistent difficulty)</source>
+        <target>10 secunde (necesită dificultate constantă)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8ba8fe810458280a83df7fdf4c614dfc1a826445" datatype="html">
+        <source>Block Rewards</source>
+        <target>Recompensa Blocului</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d04d5b5d13ac9acf9750f1807f0227eeee98b247" datatype="html">
+        <source>Total</source>
+        <target>Total</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4d6fa4fcf5fbe13512703aee15c1a40ad4ed61ff" datatype="html">
+        <source>Miners</source>
+        <target>Mineri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3de277f3e0e839888b6fd95e982bc67691a173af" datatype="html">
+        <source>Akroma Foundation</source>
+        <target>Fundația Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b19a36814df09297b0d53d663300e4cfbd4da97a" datatype="html">
+        <source>Read more about our plans on Medium</source>
+        <target>Citiți mai mult despre planurile noastre pe Medium</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe5317c6c60dd7e0e86f04d22f566f67cf04d404" datatype="html">
+        <source>Mining Pools</source>
+        <target>Bazine de minare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d8392cc661a190fcfcadb1a8d98878222f1c34f9" datatype="html">
+        <source>The Akroma community managed mining pools.</source>
+        <target>Bazinele de minare ale comunității Akroma.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2e10f24517b1350c911dc8ccbeca0c33e42b46b5" datatype="html">
+        <source>Contact us to have your pool added to our list.</source>
+        <target>Contactați-ne ca să vă adăugăm bazinul în lista noastră.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="391d0cb634ce2bd480d61061e2f2a619a0e6484e" datatype="html">
+        <source>Sustainable Governance</source>
+        <target>Guvernanță Sustenabilă</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="248e037eff7b0089add0a2ec544208f0ed75512c" datatype="html">
+        <source>
+                  The Akroma governance model is focused on creating a sustainable application development platform while contributing back
+                  to the greater community.
+              </source>
+        <target>
+                  Modelul de guvernanță Akroma se axează pe crearea unei platforme durabile de dezvoltare a aplicațiilor, contribuind
+                  în același timp la o mai mare comunitate.
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e487068586eb543cd0cdc5e49df922daff759f53" datatype="html">
+        <source>Key Features:</source>
+        <target>Caracteristici cheie:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="76f0f93c311d3127930328eec090684dcc8b5b1e" datatype="html">
+        <source>Interoperability</source>
+        <target>Interoperabilitate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f3852f70dfbf6e6298cb1d9dc99c7a95fb36d38e" datatype="html">
+        <source>No major protocol changes</source>
+        <target>Fără schimbări majore de protocol</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="041b65983a05c6107b03a594056f678626bd5f81" datatype="html">
+        <source>Continuous integration of upstream changes</source>
+        <target>Integrarea continuă a schimbărilor dezvoltate de Ethereum</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f0020dbb78e949380e5796d59405d399062247df" datatype="html">
+        <source>Focus on UX (user experience)</source>
+        <target>Axat pe UX (experiența utilizatorului)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ce7c76e13bea482d26b0d5bc7fd8807bb222c9b9" datatype="html">
+        <source>Consumer over Enterprise</source>
+        <target>Consumatorul inaintea Companiei</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1d2aa89bcb4286b11acf98c444c1479da54d255c" datatype="html">
+        <source>Decentralized Oracles</source>
+        <target>Oracole descentralizate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="050d1ecbe0d84f9623a4e37c65c2b8b032aff28b" datatype="html">
+        <source>Oracles are systems that provide smart contracts with data from outside the network.</source>
+        <target>Oracolele sunt sisteme ce oferă contracte inteligente cu date din afara rețelei.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="68e42adbdff01e960b4c2499bc1b761ab6713cb7" datatype="html">
+        <source>Oracles are one example of the type of features that become possible with a layer of dedicated servers.</source>
+        <target>Oracolele sunt un exemplu de caracteristici ce devin posibile cu o rețea de servere dedicate.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cfbd9b90c3b8b63d69893cca197f5ec5ae13ca3a" datatype="html">
+        <source>
+                  Masternodes help protect and scale the Akroma network by validating transactions and acting as a decentralization incentive.
+                  Running a masternode is rewarded with Akroma.
+              </source>
+        <target>
+                  Masternodurile ajuta la protejarea și extinderea rețelei Akroma prin validarea tranzacțiilor si acționând ca un stimulent al descentralizării.
+                  Rularea unui masternod este recompensată cu Akroma.
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="54223623e54a60d86a99ef1eecff29c7a6618bbd" datatype="html">
+        <source>
+                  The masternode layer provides the foundation for additional features to be developed on the Akroma network.
+              </source>
+        <target>
+                  Rețeaua de masternoduri oferă baza pentru caracteristicile suplimentare ce vor fi dezvoltate în rețeaua Akroma.
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="35679b422fe527bc9952e0ecc5fc9a7623e15526" datatype="html">
+        <source>Required collateral: at least 5001 AKA</source>
+        <target>Garanția necesară: minim 5001 AKA</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4e61695e9898bb95428898f2b02af8abccd4c15d" datatype="html">
+        <source>Rewards processed once daily</source>
+        <target>Recompensele sunt procesate zilnic</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="464e2dd48454ce55302532bf14e73bb0650480ac" datatype="html">
+        <source>Guides</source>
+        <target>Ghiduri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="510e44e95630dd797563c330e782a37bcec08726" datatype="html">
+        <source>
+                  Users
+              </source>
+        <target>
+                  Utilizatori
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3ae742959204200dd1bf68d9e3c06230052cf744" datatype="html">
+        <source>
+                  Nodes
+              </source>
+        <target>
+                  Noduri
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0c38741571a0fd58d690b8c3d04cc20a848ebc0b" datatype="html">
+        <source>
+                  Allocated
+              </source>
+        <target>
+                  Alocat
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="148f5c2890b4dac11b8ae7dabc84f684c9b62aa3" datatype="html">
+        <source>
+                  Rewards to date
+              </source>
+        <target>
+                  Recompense până acum
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07f4648e3b11b925bc1989065617fd409178af0c" datatype="html">
+        <source>Exchanges</source>
+        <target>Platforme tranzacționare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="01706879d881275276ac0da5d444c802702dbdd0" datatype="html">
+        <source>
+                  Akroma is listed on
+              </source>
+        <target>
+                  Akroma este listată pe
+              </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2adb70cec514cc451f2b41ecba23f23dd9d203d7" datatype="html">
+        <source>Akroma Android Wallet</source>
+        <target>Portofel Akroma pentru Android</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="737c7ef9bfbc828f7e0857269bbc44295fb06a89" datatype="html">
+        <source>Akroma Web Extension (Chrome)</source>
+        <target>Extensia Web Akroma (Chrome)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e85c3402a86bd48db85353d4c7d6389f5a4e8070" datatype="html">
+        <source>Web Wallet</source>
+        <target>Portofel Web</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f363d733f471c7040b6a92a49bc10b29e1bad411" datatype="html">
+        <source>Explorer</source>
+        <target>Explorer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-header/explorer-header.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-header/dashboard-header.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f65253954b66e929a8b4d5ecaf61f9129f8cec64" datatype="html">
+        <source>Dashboard</source>
+        <target>Tablou de bord</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-header/explorer-header.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-header/dashboard-header.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
+        <source>Login</source>
+        <target>Autentificare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-header/explorer-header.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-header/dashboard-header.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <target>Deconectare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-header/explorer-header.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-header/dashboard-header.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
+        <source>About</source>
+        <target>Despre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deeff9666924503a819a3c1e6518bdfc7b513762" datatype="html">
+        <source>Sponsorship</source>
+        <target>Sponsorizare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b8d10cd55fae4e4ad4f87d28e18251694f159bf7" datatype="html">
+        <source>Privacy Policy</source>
+        <target>Politica de confidențialitate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aa4f4b7c81ae9cabfcebc2173f31e3f4bf08d833" datatype="html">
+        <source>Terms of Service</source>
+        <target>Reguli contractuale</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1b8fc97141a0083426b2e8cf42b9c2f0513b6621" datatype="html">
+        <source>Participation Agreement</source>
+        <target>Acord de participare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ec2d3a89b366d1ca80be056e9e71f0165ae75c7b" datatype="html">
+        <source>Community</source>
+        <target>Comunitate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="013acfd8797bf5ade4a15c71fa24178f913c4cae" datatype="html">
+        <source>Blog</source>
+        <target>Blog</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c6ace8ff09f6dacdb72ba69ea13dd832b5ded2c2" datatype="html">
+        <source>Discord</source>
+        <target>Discord</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c8f5b00a17d38831130018f5b0e14b853ff133f4" datatype="html">
+        <source>Telegram</source>
+        <target>Telegram</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="99cb827741e93125476a0f5b676372d85d15b5fc" datatype="html">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="838a46816b130c73fe73b96e69176da9eb3b1190" datatype="html">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="534be4a3edd53bd0d9a2a9b6e2e7fff8626008ba" datatype="html">
+        <source>Instagram</source>
+        <target>Instagram</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d2a7deb7096cada2c3177157652680fe7e6de0ed" datatype="html">
+        <source>Projects</source>
+        <target>Proiecte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6677fdf34c4ece3e78804f1eafd667c878dd7287" datatype="html">
+        <source>Akroma Network</source>
+        <target>Rețeaua Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41953597a09ea732e82d41e4b231a02dd6756f09" datatype="html">
+        <source>Akroma Masternodes</source>
+        <target>Masternoduri Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0368d4a5fa8b06fd7f67e88abd76bbb8abe105a3" datatype="html">
+        <source>Akroma Oracles</source>
+        <target>Oracole Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="94e62e9f02381b3c63ca50d6874a32b20824ee74" datatype="html">
+        <source>Akroma iOS Wallet</source>
+        <target>Portofel Akroma pentru iOS</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9bd7e9f5b4b2d716652f59e8ccfd66691fba4941" datatype="html">
+        <source>Akroma Desktop Wallet</source>
+        <target>Portofel Akroma pentru calculator</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cdbb50ced977f5713a04c9ff20d9cec4fdf7830c" datatype="html">
+        <source>Akroma Web Extension</source>
+        <target>Extensia Web Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3b050c872b480536dc558747227e312db8cbdedd" datatype="html">
+        <source>Akroma.io Portal</source>
+        <target>Portalul Akroma.io</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="452ef1b96854fe05618303ee601f8fed3b866c9f" datatype="html">
+        <source>Resources</source>
+        <target>Resurse</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="859eea4d4a161a80f546502facb58c5d91ca9d29" datatype="html">
+        <source>Awesome Akroma</source>
+        <target>Incredibila Akroma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cc27e3d366df4ee8e488ddbe584735457bda67c3" datatype="html">
+        <source>Block Explorer</source>
+        <target>Explorer de blocuri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0049cfecee32ff0c1a03aa6ad62403c2d9c04aec" datatype="html">
+        <source>Network Stats</source>
+        <target>Statisticile Rețelei</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="355a222236bc01b9a8cd3cb9ecf76891125aed69" datatype="html">
+        <source>GitHub</source>
+        <target>GitHub</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e0395bd7b90854acb7bd1c88cd7a9c65abd451a5" datatype="html">
+        <source>Stats &amp; Graphs</source>
+        <target>Statistici &amp; Grafice</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ac47e08d692497279acb68d6a74c062c08141a79" datatype="html">
+        <source>Akroma.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Sponsorship.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </source>
+        <target>Akroma.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Sponsorizare.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6642147ee5ae8acb8b128faedfc7985d39637911" datatype="html">
+        <source>Communities</source>
+        <target>Comunități</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f7452dba15c0c88dc4142db773d351fade98cdbe" datatype="html">
+        <source>User Groups</source>
+        <target>Grupuri Utilizatori</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ebc1c2623f53ce48c714e00161a2f31f732c815b" datatype="html">
+        <source>Open Source</source>
+        <target>Sursă deschisă</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15b1c0723623dbc629e8a1bc79428b513c666bb3" datatype="html">
+        <source>Hackathons</source>
+        <target>Hackathon-uri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2cdecf6fa0ede6d9b44c7045f2578e5d660f99c7" datatype="html">
+        <source>Akroma offers a complete sponsorship program that can be tailored to fit your community, open source project, event or hackathons needs. Any combination of the following are available:</source>
+        <target>Akroma  oferă un program complet de sponsorizare ce poate fi adaptat la nevoile comunității, proiectului sursă deschisă, evenimentului sau hackatlon-ului dumneavoastră. Sunt disponibile toate combinațiile dintre următoarele:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3d69960990d22e06f5d19a05104f95d56241ad90" datatype="html">
+        <source>AKA to be used as you see fit.</source>
+        <target>AKA poate fi folosită cum doriți.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b7fc70828514eb159a7c6e2286ca96662c45f5ef" datatype="html">
+        <source>Social marketing support.</source>
+        <target>Suport pentru marketingul social.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="27ff4c4bb8c7886d20c6b119b381006279ab43ad" datatype="html">
+        <source>Listing your community, open source project, event or hackathon on akroma.io.</source>
+        <target>Înregistrarea comunității, proiectului sursă deschisă, evenimentului sau hackathon-ului dumneavoastră pe akroma.io.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c65da9ec1279eada4d88da185d6e7c6690c42e0c" datatype="html">
+        <source>Badges and flair that can be used in your promotional materials.</source>
+        <target>Insigne si artă grafică ce poate fi folosit în materialele promotionale ale dumneavoastră.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c7f6f312f8a9538660b3cf2dedbd4907d471515" datatype="html">
+        <source>
+                    Contact
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more.
+                </source>
+        <target>
+                    Contactați
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more.
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dcf4d74b15c19ca0496f70ba7509800508f0c009" datatype="html">
+        <source>
+          AKA Price
+        </source>
+        <target>
+          Preț AKA
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3064e472253c0db9e9053e4d4cdcc67ec57aae0d" datatype="html">
+        <source>
+          Average Hashrate
+        </source>
+        <target>
+          Rata de Hash Medie
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fb55057b9d7929641ac28cbe630140fb840f6837" datatype="html">
+        <source>
+          Difficulty
+        </source>
+        <target>
+          Dificultate
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8a7b4bd44c0ac71b2e72de0398b303257f7d2f54" datatype="html">
+        <source>Blocks</source>
+        <target>Blocuri</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="add4cd82e3e38a3110fe67b3c7df56e9602644ee" datatype="html">
+        <source>Transactions</source>
+        <target>tranzacții</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4ef413d88568c60c1b7bd9e7329713ee0c657ff0" datatype="html">
+        <source>
+            Block
+          </source>
+        <target>
+            Bloc
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6a1220efde19f435fdc8b4f256701f8a65588d56" datatype="html">
+        <source>
+            Hash
+          </source>
+        <target>
+            Hash
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40d1eb4d20a5bcb43910df7e61f90c73ac406477" datatype="html">
+        <source>
+            Time
+          </source>
+        <target>
+            Timp
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fd1964f96a6446c0fdc900139ebd54a8c3e34771" datatype="html">
+        <source>
+            Parent Hash
+          </source>
+        <target>
+            Hash-ul Sursă
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e9a84c0415cf2dc89742e16b34a8a504de76a58b" datatype="html">
+        <source>
+            SHA3 Uncles
+          </source>
+        <target>
+            SHA3 Uncles
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8c1f43572add0eb6e4149d4e3a3c74e21425a86e" datatype="html">
+        <source>
+            Mined By
+          </source>
+        <target>
+            Minat De
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cb1a99a9c5faf1af11aeb2387cf6df14b3f70254" datatype="html">
+        <source>
+            Difficulty
+          </source>
+        <target>
+            Dificultate
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0408ac24ca4f10ba1b90ba2ec8bed8c22405c473" datatype="html">
+        <source>
+            Total Difficulty
+          </source>
+        <target>
+            Dificultate Totală
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732ad84dc81c47dee16c49a4a09578fa13173fba" datatype="html">
+        <source>
+            Gas Limit
+          </source>
+        <target>
+            Limita gazului
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9ab0ceb44df8cd4cbf6d0e46d341ae53f0095367" datatype="html">
+        <source>
+            Gas Used
+          </source>
+        <target>
+            Gaz Folosit
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f3d40a40c7dcfd13cea3a58631567cfcaf0faf5e" datatype="html">
+        <source>
+            Nonce
+          </source>
+        <target>
+            Nonce
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="04c1717bbd7790dcef325d70d4b2b88f6b3fe343" datatype="html">
+        <source>
+            Extra Data
+          </source>
+        <target>
+            Date Suplimentare
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0d3fcb19541aa897e284aef56cada0ba7c26014a" datatype="html">
+        <source>
+            From
+          </source>
+        <target>
+            De la
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5b5ac3a66f2ccb3bf77f36d11259df81181eec1c" datatype="html">
+        <source>
+            To
+          </source>
+        <target>
+            Către
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="97064738319320dc71781c9e4baaead817b61cb7" datatype="html">
+        <source>
+            Confirmations
+          </source>
+        <target>
+            Confirmări
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3b4854b5c5024f29e015b635c09be721a7e3de66" datatype="html">
+        <source>
+            Value
+          </source>
+        <target>
+            Valoare
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8c017c4a3620ba8482739aeececf61f1099b4cb8" datatype="html">
+        <source>
+            Block Hash
+          </source>
+        <target>
+            Hash-ul Blocului
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555451dedb1830cd59934d2cabb9b2eab46f2f90" datatype="html">
+        <source>
+            Gas Provided
+          </source>
+          <target>
+              Gaz Prevăzut
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a7e9ab7884e39c21b2df2259111bc2c5fca33943" datatype="html">
+        <source>
+            Gas Price
+          </source>
+        <target>
+            Prețul Gazului
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="554a52f756c245e5268776bad332265495d49d02" datatype="html">
+        <source>
+            Input Data
+          </source>
+        <target>
+            Date de Intrare
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16a789df41ac1ee451d41ad2b55f12dd51f45b08" datatype="html">
+        <source>
+            Akroma Balance
+          </source>
+        <target>
+            Soldul Akroma
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="022a3f01f95da927451d7f57e850524c830b5659" datatype="html">
+        <source>
+            Blocks Mined
+          </source>
+        <target>
+            Blocuri Minate
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cb5c62b2bc69cc954ed9e114d9445b9cf08e89ea" datatype="html">
+        <source>
+            Transactions
+          </source>
+        <target>
+            Tranzacții
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="207e94fe95ede8db21f5045547f1335f51d09483" datatype="html">
+        <source>
+          Transactions
+        </source>
+        <target>
+          Tranzacții
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cdb6e6207a6e6baf59b30276625c32c1c61ae918" datatype="html">
+        <source>TO</source>
+        <target>CĂTRE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7113ecd4c9545c6f886131bf0ffa8c39ba8abda" datatype="html">
+        <source>FROM</source>
+        <target>DE LA</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c43dc1967a603fefb886149ac35863a06d5b4ce5" datatype="html">
+        <source>Information</source>
+        <target>Informații</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/dashboard-footer/dashboard-footer.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1d148287bc54865ea8ebd09ff8ed11d947679b16" datatype="html">
+        <source>
+                    Locked
+                </source>
+        <target>
+                    Blocat
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="85f00fe21ce4037920226b3ed74be135d32a1212" datatype="html">
+        <source>
+                    Total Rewarded
+                </source>
+        <target>
+                    Total Recompensat
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a54e9a4bd5710e966dd0fca3a7bc331990a5294c" datatype="html">
+        <source>
+                    Active Nodes
+                </source>
+        <target>
+                    Noduri Active
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a6cc1e76005d7c9854b6b76a0847dc9627404fa2" datatype="html">
+        <source>
+                    Total Users
+                </source>
+        <target>
+                    Total Utilizatori
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1d9b52673690c70415c30515eebe4439789e66ae" datatype="html">
+        <source>MASTERNODES</source>
+        <target>MASTERNODURI</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c513f891ce8a414bb592d1234b797cb2c88b9bb2" datatype="html">
+        <source>30 DAY REWARDS</source>
+        <target>RECOMPENSE DE 30 DE ZILE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="524a9037b7717b8676b9bba9d4b106c53efe9e44" datatype="html">
+        <source>LIFETIME REWARDS</source>
+        <target>RECOMPENSE PE VIAȚĂ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f7de68b781af949dc0e1b02bc3faa1fcd6fba8f2" datatype="html">
+        <source>Create Masternode</source>
+        <target>Creează Masternod</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cdfb2c2c6f12c6654869288e66ec7ccd8c2f12bc" datatype="html">
+        <source>Enode Id</source>
+        <target>Id Enode</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-edit/masternodes-edit.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="84738b1bbb866302445901b1bca1e9cb5bf8d006" datatype="html">
+        <source>IP</source>
+        <target>IP</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-edit/masternodes-edit.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cb2741a46e3560f6bc6dfd99d385e86b08b26d72" datatype="html">
+        <source>Port</source>
+        <target>Port</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-edit/masternodes-edit.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1c1d901ce2f965a7817438cc6b0efb70ba6afbd3" datatype="html">
+        <source>Wallet Address</source>
+        <target>Adresă Portofel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2798cc1e152b1ec07fd8daf94a2a073d1ba1ebcc" datatype="html">
+        <source>Id</source>
+        <target>Id</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f61c6867295f3b53d23557021f2f4e0aa1d0b8fc" datatype="html">
+        <source>Type</source>
+        <target>Tip</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5ad4eecbd0fe09c34678fefce317a052af39dc96" datatype="html">
+        <source>Data</source>
+        <target>Dată</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b24f1cd32cbc1ec9537af28c4fe1b8204097714b" datatype="html">
+        <source>Time</source>
+        <target>Timp</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5d1e500cd4ff2ebcf566f820fb3633e3c7c8ca24" datatype="html">
+        <source>NAME</source>
+        <target>NUME</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d5e31741c591719630b5bba1ba38f8c1a04c10e3" datatype="html">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c48e75da8086e4b41d3f11d9d3454b02e46ac152" datatype="html">
+        <source> ACCEPTED TOS</source>
+        <target> TOS ACCEPTAT</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="801c464dfaabb8eb2c16f2cc0bf81435030174dd" datatype="html">
+        <source>login</source>
+        <target>autentificare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8a5c99d9397246e057e8ac7f656395087aa580c4" datatype="html">
+        <source>masternode Registered</source>
+        <target>masternod Înregistrat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e44d4453fbff9242ca2088cf5d4e1ec6f7fa25e3" datatype="html">
+        <source>masternode failed health check</source>
+        <target>examinare masternod eșuată</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="02aa5dcd673cfd96a5b1f6ab440e2c53e948f8c0" datatype="html">
+        <source>masternode revoked</source>
+        <target>masternod revocat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="59ffc2fa19fecb79118a6ed6f301140ff0c49e63" datatype="html">
+        <source>masternode verified</source>
+        <target>masternod verificat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8961f48a8a5b074b1e4df47dc395e021c94a21f4" datatype="html">
+        <source>rewards transaction</source>
+        <target>tranzacție recompense</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="468ca29bcae69bd80a9a42669e49bd9580b9476b" datatype="html">
+        <source>masternode edit</source>
+        <target>editare masternod</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="efb2f5a8118683b5949d4080e4eddfc737129594" datatype="html">
+        <source>masternode delete</source>
+        <target>ștergere masternod</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6da850e6cd04a3081a3ef77e174120600aae1609" datatype="html">
+        <source>ACCEPT.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>TOS.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </source>
+        <target>ACCEPT.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>TOS.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/terms/terms.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9793cd51c02046e655c9883d754e27bd1bc4265b" datatype="html">
+        <source>I have reviewed and accept the Akroma
+                            <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Terms of Service<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>,
+                            <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and
+                            <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a&gt;"/>Participation Agreement<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                        </source>
+        <target>Am revizuit și acceptat
+                            <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Condițiile de Utilizare<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> Akroma,
+                            <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Politica de Confidențialitate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> și
+                            <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a&gt;"/>Acordul de Participare<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/pages/terms/terms.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5826916db2704cefe89031c90c7718c2de206af7" datatype="html">
+        <source>Really delete masternode #<x id="INTERPOLATION" equiv-text="{{ masternode.id }}"/>?</source>
+        <target>Într-adevăr sterg masternodul #<x id="INTERPOLATION" equiv-text="{{ masternode.id }}"/>?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6a6a46b85c099df3967272d9cdb863877d701c69" datatype="html">
+        <source>Yes (delete)</source>
+        <target>Da (șterge)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3d3ae7deebc5949b0c1c78b9847886a94321d9fd" datatype="html">
+        <source>No</source>
+        <target>Nu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="86a6ee96bf024614a0440a08092a8655fb863c92" datatype="html">
+        <source>Masternode</source>
+        <target>Masternod</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4f8b2bb476981727ab34ed40fde1218361f92c45" datatype="html">
+        <source>Details</source>
+        <target>Detalii</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="28f86ffd419b869711aa13f5e5ff54be6d70731c" datatype="html">
+        <source>Edit</source>
+        <target>Editează</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="27c7bfba7033cc8dbf4caf42b40b6b3c87197838" datatype="html">
+        <source>Verify</source>
+        <target>Verifică</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="826b25211922a1b46436589233cb6f1a163d89b7" datatype="html">
+        <source>Delete</source>
+        <target>Șterge</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="814efcc244d182cabfdcdf7754097cdd023514d9" datatype="html">
+        <source>Verified</source>
+        <target>Verificat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a66a6dbb033b25bea837dcd0a753490def409172" datatype="html">
+        <source>Try Count</source>
+        <target>Număr încercări</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="75f509dfd979531decd9cb5726a63cbb970a9697" datatype="html">
+        <source>
+            <x id="INTERPOLATION" equiv-text="{{ masternode.verifyTryCount }}"/> of max 10 verification attempts
+          </source>
+        <target>
+            <x id="INTERPOLATION" equiv-text="{{ masternode.verifyTryCount }}"/> din max 10 incercări de verificare
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4af3ce71bf2e475b17b8f9c29e77a8ac9db07d78" datatype="html">
+        <source>24/hr Uptime</source>
+        <target>24/ore Timp Funcționare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7059a413a0fee793cd9661459894385360ec16d0" datatype="html">
+        <source>7/day Uptime</source>
+        <target>7/zile Timp Funcționare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8c5b3fa244ce8203d1a8047e1e90f48d275fd5e3" datatype="html">
+        <source>30/day Uptime</source>
+        <target>30/zile Timp Funcționare</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="13b20c59b98de1d551b574249195bb13720fd5fa" datatype="html">
+        <source>Transaction Data</source>
+        <target>Datele Transacției</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c0d4baf68f21ee9c4246d66f0ac828c5b73ae745" datatype="html">
+        <source>Wallet</source>
+        <target>Portofel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9c9822d091077929151bbc04561ee7034bb383f8" datatype="html">
+        <source>Enode ID</source>
+        <target>ID Enode</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ed6a37ec799a3bd3c4afdbb17208383ad38f8308" datatype="html">
+        <source>Last Seen</source>
+        <target>Văzut Ultima Dată</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
