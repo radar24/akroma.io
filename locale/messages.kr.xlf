@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
         <source>Home</source>
-        <target>집</target>
+        <target>홈</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -12,6 +12,7 @@
       </trans-unit>
       <trans-unit id="37529a4c63fb20de8466f316102261d272d4d2ed" datatype="html">
         <source>Masternodes</source>
+        <target>마스터노드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">7</context>
@@ -31,6 +32,7 @@
       </trans-unit>
       <trans-unit id="994363f08f9fbfa3b3994ff7b35c6904fdff18d8" datatype="html">
         <source>Profile</source>
+        <target>사용자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">8</context>
@@ -38,6 +40,7 @@
       </trans-unit>
       <trans-unit id="9fe218829514884cdd0ca2300573a4e0428c324f" datatype="html">
         <source>Alerts</source>
+        <target>알림</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">9</context>
@@ -45,6 +48,7 @@
       </trans-unit>
       <trans-unit id="895b412950f95282a45c713c962df63cf3f7d73d" datatype="html">
         <source>Smart Contracts. Masternodes. Oracles.</source>
+        <target>스마트 컨트랙트. 마스터노드. 오라클.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -60,8 +64,8 @@
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
         <target>
-                    암호 해독 성.
-                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>더 똑똑한.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                    더욱 스마트한.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>암호화폐.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
@@ -70,6 +74,7 @@
       </trans-unit>
       <trans-unit id="7df25164c7fd0b0a5031c4a6d77eca3efe038511" datatype="html">
         <source>Introducing Akroma</source>
+        <target>Akroma를 소개합니다</target> 
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">19</context>
@@ -78,6 +83,7 @@
       <trans-unit id="4d26c7fdfbc4084096e9eb8a6fa3bef655fc0080" datatype="html">
         <source>Akroma is a cryptocurrency and application development platform focused on creating a governance model that will reward long-term, sustainable development and design.
                 </source>
+        <target>Akroma는 장기간 지속적인 개발과 디자인을 가능케할 거버넌스 모델을 완성하는데 중점을 두고 있는 암호화폐이자 어플리케이션 개발 플랫폼입니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -87,6 +93,9 @@
         <source>Download the
                     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Akroma Whitepaper<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
                 </source>
+        <target>
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Akroma 백서 다운로드<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -95,6 +104,8 @@
       <trans-unit id="cca4e52bb9f72ec679c174bddf7095c578cae4ce" datatype="html">
         <source>Cryptocurrency.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
+        <target>더욱 스마트한.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>암호화폐.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/graphs/graphs.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -102,6 +113,7 @@
       </trans-unit>
       <trans-unit id="5f290fa920302fbf0a5b9dff602811cf8ea46079" datatype="html">
         <source>Core Team</source>
+        <target>개발팀</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -109,6 +121,7 @@
       </trans-unit>
       <trans-unit id="3215592ca589ee37f77889df5b67e928e6af09ea" datatype="html">
         <source>Community Moderators</source>
+        <target>커뮤니티 매니저</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
           <context context-type="linenumber">179</context>
@@ -116,6 +129,7 @@
       </trans-unit>
       <trans-unit id="d9514821a1ea219e53383c6d5f3be0d424da1e42" datatype="html">
         <source>Network Details</source>
+        <target>네트워크 정보</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">8</context>
@@ -123,6 +137,7 @@
       </trans-unit>
       <trans-unit id="acc04ca445d64958d843622f9ce95c0378198c24" datatype="html">
         <source>Protocol</source>
+        <target>프로토콜</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">12</context>
@@ -130,6 +145,7 @@
       </trans-unit>
       <trans-unit id="6c6f25c47da62ec597c6057a36ddfc3209811ec5" datatype="html">
         <source>Algorithm</source>
+        <target>알고리즘</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">17</context>
@@ -137,6 +153,7 @@
       </trans-unit>
       <trans-unit id="219457e31107e4653abc2952947c150ef7840260" datatype="html">
         <source>Total Supply</source>
+        <target>총 발행량</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -144,6 +161,7 @@
       </trans-unit>
       <trans-unit id="2136a6dec991ab699f36505aaf745dc026ef9f22" datatype="html">
         <source>100 million</source>
+        <target>1억만개</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">24</context>
@@ -151,6 +169,7 @@
       </trans-unit>
       <trans-unit id="ed9d5099aa210dd81057f1f8da4337b87de761ee" datatype="html">
         <source>Target Block Time</source>
+        <target>블록 생성 시간</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">28</context>
@@ -158,6 +177,7 @@
       </trans-unit>
       <trans-unit id="51e33f440afb2c6fb5c9ed39520f934c02594711" datatype="html">
         <source>10 seconds (requires consistent difficulty)</source>
+        <target>10초 (일관된 난이도가 지속될 시)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">29</context>
@@ -165,6 +185,7 @@
       </trans-unit>
       <trans-unit id="8ba8fe810458280a83df7fdf4c614dfc1a826445" datatype="html">
         <source>Block Rewards</source>
+        <target>블록 보상</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">36</context>
@@ -172,6 +193,7 @@
       </trans-unit>
       <trans-unit id="d04d5b5d13ac9acf9750f1807f0227eeee98b247" datatype="html">
         <source>Total</source>
+        <target>총</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">40</context>
@@ -179,6 +201,7 @@
       </trans-unit>
       <trans-unit id="4d6fa4fcf5fbe13512703aee15c1a40ad4ed61ff" datatype="html">
         <source>Miners</source>
+        <target>채굴자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -186,6 +209,7 @@
       </trans-unit>
       <trans-unit id="3de277f3e0e839888b6fd95e982bc67691a173af" datatype="html">
         <source>Akroma Foundation</source>
+        <target>Akroma 재단</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">52</context>
@@ -193,6 +217,7 @@
       </trans-unit>
       <trans-unit id="b19a36814df09297b0d53d663300e4cfbd4da97a" datatype="html">
         <source>Read more about our plans on Medium</source>
+        <target>Akroma의 상세한 로드맵은 Medium에서 확인하세요.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">65</context>
@@ -200,6 +225,7 @@
       </trans-unit>
       <trans-unit id="fe5317c6c60dd7e0e86f04d22f566f67cf04d404" datatype="html">
         <source>Mining Pools</source>
+        <target>채굴 풀</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -207,6 +233,7 @@
       </trans-unit>
       <trans-unit id="d8392cc661a190fcfcadb1a8d98878222f1c34f9" datatype="html">
         <source>The Akroma community managed mining pools.</source>
+        <target>Akroma 커뮤니티 채굴 풀.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -214,6 +241,7 @@
       </trans-unit>
       <trans-unit id="2e10f24517b1350c911dc8ccbeca0c33e42b46b5" datatype="html">
         <source>Contact us to have your pool added to our list.</source>
+        <target>채굴 풀 목록 추가는 개발팀에게 문의하세요.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">7</context>
@@ -221,6 +249,7 @@
       </trans-unit>
       <trans-unit id="391d0cb634ce2bd480d61061e2f2a619a0e6484e" datatype="html">
         <source>Sustainable Governance</source>
+        <target>서스테이너블 거버넌스</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">9</context>
@@ -231,6 +260,9 @@
                   The Akroma governance model is focused on creating a sustainable application development platform while contributing back
                   to the greater community.
               </source>
+        <target>
+                  Akroma의 거버넌스 모델은 서스테이너블 어플리케이션 개발 플랫폼 완성에 목적을 두고 있으며 이는 더욱 거대한 커뮤니티 형성에 도움이 되는 요소입니다.
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">10</context>
@@ -238,6 +270,7 @@
       </trans-unit>
       <trans-unit id="e487068586eb543cd0cdc5e49df922daff759f53" datatype="html">
         <source>Key Features:</source>
+        <target>주요 기능 사항:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">14</context>
@@ -245,6 +278,7 @@
       </trans-unit>
       <trans-unit id="76f0f93c311d3127930328eec090684dcc8b5b1e" datatype="html">
         <source>Interoperability</source>
+        <target>상호운용성</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">16</context>
@@ -252,6 +286,7 @@
       </trans-unit>
       <trans-unit id="f3852f70dfbf6e6298cb1d9dc99c7a95fb36d38e" datatype="html">
         <source>No major protocol changes</source>
+        <target>주요 프로토콜 변화 없음</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">17</context>
@@ -259,6 +294,7 @@
       </trans-unit>
       <trans-unit id="041b65983a05c6107b03a594056f678626bd5f81" datatype="html">
         <source>Continuous integration of upstream changes</source>
+        <target>업스트림(Upstream) 변화의 지속적 통합 (CI) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -266,6 +302,7 @@
       </trans-unit>
       <trans-unit id="f0020dbb78e949380e5796d59405d399062247df" datatype="html">
         <source>Focus on UX (user experience)</source>
+        <target>사용자 경험(UX)에 촛점을 맞춤</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">19</context>
@@ -273,6 +310,7 @@
       </trans-unit>
       <trans-unit id="ce7c76e13bea482d26b0d5bc7fd8807bb222c9b9" datatype="html">
         <source>Consumer over Enterprise</source>
+        <target>기업보다 소비자 중심주의</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -280,6 +318,7 @@
       </trans-unit>
       <trans-unit id="1d2aa89bcb4286b11acf98c444c1479da54d255c" datatype="html">
         <source>Decentralized Oracles</source>
+        <target>탈중앙화 오라클</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -287,6 +326,7 @@
       </trans-unit>
       <trans-unit id="050d1ecbe0d84f9623a4e37c65c2b8b032aff28b" datatype="html">
         <source>Oracles are systems that provide smart contracts with data from outside the network.</source>
+        <target>오라클은 블록체인 네트워크 외부로부터 발생된 데이터로 만들어진 스마트 컨트랙트를 제공하는 시스템입니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">7</context>
@@ -294,6 +334,7 @@
       </trans-unit>
       <trans-unit id="68e42adbdff01e960b4c2499bc1b761ab6713cb7" datatype="html">
         <source>Oracles are one example of the type of features that become possible with a layer of dedicated servers.</source>
+        <target>오라클은 여러 전용 서버들이 연동된 시스템에서 가능했던 기능을 블록체인 네트워크 상에서 가능하게 만든 기술의 한 예시입니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">8</context>
@@ -304,6 +345,9 @@
                   Masternodes help protect and scale the Akroma network by validating transactions and acting as a decentralization incentive.
                   Running a masternode is rewarded with Akroma.
               </source>
+        <target>
+                  마스터노드는 트랜잭션 검증과 분권화 인센티브 모델로서의 역할 수행을 통해 Akroma 네트워크의 보안과 확장성에 기여합니다. 마스터노드 운용시 Akroma 코인으로 보상 받게 됩니다.  
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">10</context>
@@ -313,6 +357,9 @@
         <source>
                   The masternode layer provides the foundation for additional features to be developed on the Akroma network.
               </source>
+        <target>
+                  마스터노드 레이어는 Akroma 네트워크 상에서 추가 기능이 개발되기 위한 주요 기반을 제공합니다. 
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">15</context>
@@ -320,6 +367,7 @@
       </trans-unit>
       <trans-unit id="35679b422fe527bc9952e0ecc5fc9a7623e15526" datatype="html">
         <source>Required collateral: at least 5001 AKA</source>
+        <target>구축필요코인 수량: 최소 5001 AKA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">19</context>
@@ -327,6 +375,7 @@
       </trans-unit>
       <trans-unit id="4e61695e9898bb95428898f2b02af8abccd4c15d" datatype="html">
         <source>Rewards processed once daily</source>
+        <target>보상 주기 : 1일 1회</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -334,6 +383,7 @@
       </trans-unit>
       <trans-unit id="464e2dd48454ce55302532bf14e73bb0650480ac" datatype="html">
         <source>Guides</source>
+        <target>마스터노드 구축 가이드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -343,6 +393,9 @@
         <source>
                   Users
               </source>
+        <target>
+                  등록 사용자 수
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">38</context>
@@ -352,6 +405,9 @@
         <source>
                   Nodes
               </source>
+        <target>
+                  총 노드
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">46</context>
@@ -361,6 +417,9 @@
         <source>
                   Allocated
               </source>
+        <target>
+                  락업 수량
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">59</context>
@@ -370,6 +429,9 @@
         <source>
                   Rewards to date
               </source>
+        <target>
+                  현재까지 총 보상 수량
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">68</context>
@@ -377,6 +439,7 @@
       </trans-unit>
       <trans-unit id="07f4648e3b11b925bc1989065617fd409178af0c" datatype="html">
         <source>Exchanges</source>
+        <target>거래소</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -386,6 +449,9 @@
         <source>
                   Akroma is listed on
               </source>
+        <target>
+                  Akroma는 아래 거래소에서 거래가 가능합니다.
+              </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">7</context>
@@ -393,6 +459,7 @@
       </trans-unit>
       <trans-unit id="2adb70cec514cc451f2b41ecba23f23dd9d203d7" datatype="html">
         <source>Akroma Android Wallet</source>
+        <target>Akroma 안드로이드용 지갑</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -404,6 +471,7 @@
       </trans-unit>
       <trans-unit id="737c7ef9bfbc828f7e0857269bbc44295fb06a89" datatype="html">
         <source>Akroma Web Extension (Chrome)</source>
+        <target>Akroma 크롬 브라우저용 확장 프로그램</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">27</context>
@@ -411,6 +479,7 @@
       </trans-unit>
       <trans-unit id="e85c3402a86bd48db85353d4c7d6389f5a4e8070" datatype="html">
         <source>Web Wallet</source>
+        <target>웹용 지갑</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">30</context>
@@ -430,6 +499,7 @@
       </trans-unit>
       <trans-unit id="f363d733f471c7040b6a92a49bc10b29e1bad411" datatype="html">
         <source>Explorer</source>
+        <target>블록 탐색기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">15</context>
@@ -445,6 +515,7 @@
       </trans-unit>
       <trans-unit id="f65253954b66e929a8b4d5ecaf61f9129f8cec64" datatype="html">
         <source>Dashboard</source>
+        <target>대시보드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -460,6 +531,7 @@
       </trans-unit>
       <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
         <source>Login</source>
+        <target>로그인</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -475,6 +547,7 @@
       </trans-unit>
       <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
         <source>Logout</source>
+        <target>로그아웃</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -490,6 +563,7 @@
       </trans-unit>
       <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
         <source>About</source>
+        <target>웹사이트에 관하여</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -497,6 +571,7 @@
       </trans-unit>
       <trans-unit id="deeff9666924503a819a3c1e6518bdfc7b513762" datatype="html">
         <source>Sponsorship</source>
+        <target>스폰서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">8</context>
@@ -504,6 +579,7 @@
       </trans-unit>
       <trans-unit id="b8d10cd55fae4e4ad4f87d28e18251694f159bf7" datatype="html">
         <source>Privacy Policy</source>
+        <target>개인정보 보호정책</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">14</context>
@@ -519,6 +595,7 @@
       </trans-unit>
       <trans-unit id="aa4f4b7c81ae9cabfcebc2173f31e3f4bf08d833" datatype="html">
         <source>Terms of Service</source>
+        <target>서비스 이용약관</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">17</context>
@@ -534,6 +611,7 @@
       </trans-unit>
       <trans-unit id="1b8fc97141a0083426b2e8cf42b9c2f0513b6621" datatype="html">
         <source>Participation Agreement</source>
+        <target>참여 약정</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -549,6 +627,7 @@
       </trans-unit>
       <trans-unit id="ec2d3a89b366d1ca80be056e9e71f0165ae75c7b" datatype="html">
         <source>Community</source>
+        <target>커뮤니티</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">25</context>
@@ -564,6 +643,7 @@
       </trans-unit>
       <trans-unit id="013acfd8797bf5ade4a15c71fa24178f913c4cae" datatype="html">
         <source>Blog</source>
+        <target>블로그</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">28</context>
@@ -579,6 +659,7 @@
       </trans-unit>
       <trans-unit id="c6ace8ff09f6dacdb72ba69ea13dd832b5ded2c2" datatype="html">
         <source>Discord</source>
+        <target>디스코드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">31</context>
@@ -594,6 +675,7 @@
       </trans-unit>
       <trans-unit id="c8f5b00a17d38831130018f5b0e14b853ff133f4" datatype="html">
         <source>Telegram</source>
+        <target>텔레그램</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -609,6 +691,7 @@
       </trans-unit>
       <trans-unit id="99cb827741e93125476a0f5b676372d85d15b5fc" datatype="html">
         <source>Twitter</source>
+        <target>트위터</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">37</context>
@@ -624,6 +707,7 @@
       </trans-unit>
       <trans-unit id="838a46816b130c73fe73b96e69176da9eb3b1190" datatype="html">
         <source>Facebook</source>
+        <target>페이스북</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">40</context>
@@ -639,6 +723,7 @@
       </trans-unit>
       <trans-unit id="534be4a3edd53bd0d9a2a9b6e2e7fff8626008ba" datatype="html">
         <source>Instagram</source>
+        <target>인스타그램</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">43</context>
@@ -654,6 +739,7 @@
       </trans-unit>
       <trans-unit id="d2a7deb7096cada2c3177157652680fe7e6de0ed" datatype="html">
         <source>Projects</source>
+        <target>프로젝트</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">48</context>
@@ -661,6 +747,7 @@
       </trans-unit>
       <trans-unit id="6677fdf34c4ece3e78804f1eafd667c878dd7287" datatype="html">
         <source>Akroma Network</source>
+        <target>Akroma 네트워크</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -668,6 +755,7 @@
       </trans-unit>
       <trans-unit id="41953597a09ea732e82d41e4b231a02dd6756f09" datatype="html">
         <source>Akroma Masternodes</source>
+        <target>Akroma 마스터노드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">54</context>
@@ -675,6 +763,7 @@
       </trans-unit>
       <trans-unit id="0368d4a5fa8b06fd7f67e88abd76bbb8abe105a3" datatype="html">
         <source>Akroma Oracles</source>
+        <target>Akroma 오라클</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">57</context>
@@ -682,6 +771,7 @@
       </trans-unit>
       <trans-unit id="94e62e9f02381b3c63ca50d6874a32b20824ee74" datatype="html">
         <source>Akroma iOS Wallet</source>
+        <target>Akroma iOS용 지갑</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">63</context>
@@ -689,6 +779,7 @@
       </trans-unit>
       <trans-unit id="9bd7e9f5b4b2d716652f59e8ccfd66691fba4941" datatype="html">
         <source>Akroma Desktop Wallet</source>
+        <target>Akroma 데스크탑용 지갑</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">66</context>
@@ -696,6 +787,7 @@
       </trans-unit>
       <trans-unit id="cdbb50ced977f5713a04c9ff20d9cec4fdf7830c" datatype="html">
         <source>Akroma Web Extension</source>
+        <target>Akroma 웹용 확장 프로그램</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">69</context>
@@ -703,6 +795,7 @@
       </trans-unit>
       <trans-unit id="3b050c872b480536dc558747227e312db8cbdedd" datatype="html">
         <source>Akroma.io Portal</source>
+        <target>Akroma.io 포털 사이트</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">72</context>
@@ -710,6 +803,7 @@
       </trans-unit>
       <trans-unit id="452ef1b96854fe05618303ee601f8fed3b866c9f" datatype="html">
         <source>Resources</source>
+        <target>리소스</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">77</context>
@@ -725,6 +819,7 @@
       </trans-unit>
       <trans-unit id="859eea4d4a161a80f546502facb58c5d91ca9d29" datatype="html">
         <source>Awesome Akroma</source>
+        <target>어썸 Akroma</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">80</context>
@@ -740,6 +835,7 @@
       </trans-unit>
       <trans-unit id="cc27e3d366df4ee8e488ddbe584735457bda67c3" datatype="html">
         <source>Block Explorer</source>
+        <target>블록 탐색기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">86</context>
@@ -755,6 +851,7 @@
       </trans-unit>
       <trans-unit id="0049cfecee32ff0c1a03aa6ad62403c2d9c04aec" datatype="html">
         <source>Network Stats</source>
+        <target>네트워크 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">89</context>
@@ -770,6 +867,7 @@
       </trans-unit>
       <trans-unit id="355a222236bc01b9a8cd3cb9ecf76891125aed69" datatype="html">
         <source>GitHub</source>
+        <target>깃허브</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">92</context>
@@ -785,6 +883,7 @@
       </trans-unit>
       <trans-unit id="e0395bd7b90854acb7bd1c88cd7a9c65abd451a5" datatype="html">
         <source>Stats &amp; Graphs</source>
+        <target>통계 그래프</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -802,6 +901,9 @@
         <source>Akroma.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Sponsorship.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
+        <target>Akroma.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>스폰서.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -809,6 +911,7 @@
       </trans-unit>
       <trans-unit id="6642147ee5ae8acb8b128faedfc7985d39637911" datatype="html">
         <source>Communities</source>
+        <target>커뮤니티</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -816,6 +919,7 @@
       </trans-unit>
       <trans-unit id="f7452dba15c0c88dc4142db773d351fade98cdbe" datatype="html">
         <source>User Groups</source>
+        <target>사용자 집단</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -823,6 +927,7 @@
       </trans-unit>
       <trans-unit id="ebc1c2623f53ce48c714e00161a2f31f732c815b" datatype="html">
         <source>Open Source</source>
+        <target>오픈소스</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">26</context>
@@ -830,6 +935,7 @@
       </trans-unit>
       <trans-unit id="15b1c0723623dbc629e8a1bc79428b513c666bb3" datatype="html">
         <source>Hackathons</source>
+        <target>해커톤</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -837,6 +943,7 @@
       </trans-unit>
       <trans-unit id="2cdecf6fa0ede6d9b44c7045f2578e5d660f99c7" datatype="html">
         <source>Akroma offers a complete sponsorship program that can be tailored to fit your community, open source project, event or hackathons needs. Any combination of the following are available:</source>
+        <target>Akroma는 커뮤니티 네트워크, 오픈소스 프로젝트, 이벤트 혹은 해커톤 등에 필요한 종합 스폰서쉽 프로그램을 제공합니다. 제공 사항은 아래와 같습니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">39</context>
@@ -844,6 +951,7 @@
       </trans-unit>
       <trans-unit id="3d69960990d22e06f5d19a05104f95d56241ad90" datatype="html">
         <source>AKA to be used as you see fit.</source>
+        <target>프로젝트 목적에 필요한 AKA 코인.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">41</context>
@@ -851,6 +959,7 @@
       </trans-unit>
       <trans-unit id="b7fc70828514eb159a7c6e2286ca96662c45f5ef" datatype="html">
         <source>Social marketing support.</source>
+        <target>소셜 마케팅 지원.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">42</context>
@@ -858,6 +967,7 @@
       </trans-unit>
       <trans-unit id="27ff4c4bb8c7886d20c6b119b381006279ab43ad" datatype="html">
         <source>Listing your community, open source project, event or hackathon on akroma.io.</source>
+        <target>커뮤니티, 오픈소스 프로젝스, 이벤트 혹은 해커톤 행사에 관한 소식 akroma.io에 게재.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">43</context>
@@ -865,6 +975,7 @@
       </trans-unit>
       <trans-unit id="c65da9ec1279eada4d88da185d6e7c6690c42e0c" datatype="html">
         <source>Badges and flair that can be used in your promotional materials.</source>
+        <target>마케팅 자료에 필요한 Akroma 로고 및 디자인 시안 제공.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -875,6 +986,10 @@
                     Contact
                     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more.
                 </source>
+        <target>
+                    자세한 문의는
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>으로 연락바랍니다.
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">50</context>
@@ -884,6 +999,9 @@
         <source>
           AKA Price
         </source>
+        <targer>
+          AKA 가격
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">12</context>
@@ -893,6 +1011,9 @@
         <source>
           Average Hashrate
         </source>
+        <targer>
+          평균 해시레이트
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -902,6 +1023,9 @@
         <source>
           Difficulty
         </source>
+        <targer>
+          난이도
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">34</context>
